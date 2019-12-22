@@ -1,0 +1,304 @@
+{
+  "keys": "/Users/jarvis/Project/vue-egg-example/egg/config/config.default.js",
+  "middleware": "/Users/jarvis/Project/vue-egg-example/egg/config/config.default.js",
+  "sequelize": {
+    "dialect": "/Users/jarvis/Project/vue-egg-example/egg/config/config.default.js",
+    "host": "/Users/jarvis/Project/vue-egg-example/egg/config/config.default.js",
+    "port": "/Users/jarvis/Project/vue-egg-example/egg/config/config.default.js",
+    "database": "/Users/jarvis/Project/vue-egg-example/egg/config/config.default.js",
+    "username": "/Users/jarvis/Project/vue-egg-example/egg/config/config.default.js",
+    "password": "/Users/jarvis/Project/vue-egg-example/egg/config/config.default.js"
+  },
+  "cors": {
+    "origin": "/Users/jarvis/Project/vue-egg-example/egg/config/config.default.js",
+    "allowMethods": "/Users/jarvis/Project/vue-egg-example/egg/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-security/config/config.default.js",
+      "type": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+  "name": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+    "version": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+    "description": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+      "egg-cors": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+      "egg-sequelize": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+      "pg": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+      "pg-hstore": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+      "factory-girl": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+      "sequelize-cli": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "autod": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+      "dev": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+      "lint": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+      "test": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+      "cov": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+      "ci": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js"
+    },
+    "eslintIgnore": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+    "repository": {
+      "type": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+      "url": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js"
+    },
+    "files": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+    "author": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+    "private": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+    "strict": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+      "depth": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+    "env": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+    "level": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+    "logging": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+      "port": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/jarvis/Project/vue-egg-example/egg/node_modules/egg/config/config.default.js"
+}

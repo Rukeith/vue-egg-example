@@ -1,0 +1,15 @@
+version: "3.7"
+services:
+  db:
+    image: postgres
+    container_name: pg
+    volumes:
+      - db-data:/var/lib/postgresql/data
+    environment:
+      POSTGRES_DB: demo
+      POSTGRES_PASSWORD: pass
+    ports:
+      - "5432:5432"
+
+volumes:
+  db-data:
